@@ -2,7 +2,7 @@
 description: Preguntas de álgebra matricial de las PAU de la Comunidad Valenciana
 ---
 
-# Álgebra matricial
+# Álgebra matricial (Matemáticas CCSS)
 
 ## Archivo XML
 

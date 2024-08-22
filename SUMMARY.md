@@ -33,9 +33,9 @@
 ## Moodle STACK - PAU COMUNIDAD VALENCIANA <a href="#moodle-stack" id="moodle-stack"></a>
 
 * [Probabilidad (Matemáticas CCSS)](moodle-stack/probabilidad.md)
-* [Álgebra matricial (Matemáticas CCSS)](moodle-stack/algebra-matricial-matematicas-ccss.md)
+* [Álgebra matricial (Matemáticas CCSS)](moodle-stack/algebra-matricial.md)
 * [Sistemas de ecuaciones (Matemáticas CCSS)](moodle-stack/sistemas-de-ecuaciones.md)
-* [Programación lineal](moodle-stack/programacion-lineal.md)
+* [Programación lineal (Matemáticas CCSS)](moodle-stack/programacion-lineal-matematicas-ccss.md)
 * [Análisis](moodle-stack/analisis.md)
 
 ## MOODLE STACK - PASO A PASO
