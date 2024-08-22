@@ -2,7 +2,7 @@
 description: Preguntas de programación lineal de las PAU de la Comunidad Valenciana
 ---
 
-# Programación lineal
+# Programación lineal (Matemáticas CCSS)
 
 ## Archivo xml
 

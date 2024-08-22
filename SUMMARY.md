@@ -35,8 +35,8 @@
 * [Probabilidad (Matemáticas CCSS)](moodle-stack/probabilidad.md)
 * [Álgebra matricial (Matemáticas CCSS)](moodle-stack/algebra-matricial.md)
 * [Sistemas de ecuaciones (Matemáticas CCSS)](moodle-stack/sistemas-de-ecuaciones.md)
-* [Programación lineal (Matemáticas CCSS)](moodle-stack/programacion-lineal-matematicas-ccss.md)
-* [Análisis](moodle-stack/analisis.md)
+* [Programación lineal (Matemáticas CCSS)](moodle-stack/programacion-lineal.md)
+* [Análisis (Matemáticas CCSS)](moodle-stack/analisis-matematicas-ccss.md)
 
 ## MOODLE STACK - PASO A PASO
 
