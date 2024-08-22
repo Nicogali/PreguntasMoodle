@@ -37,6 +37,7 @@
 * [Sistemas de ecuaciones (Matemáticas CCSS)](moodle-stack/sistemas-de-ecuaciones.md)
 * [Programación lineal (Matemáticas CCSS)](moodle-stack/programacion-lineal.md)
 * [Análisis (Matemáticas CCSS)](moodle-stack/analisis-matematicas-ccss.md)
+* [Geometría analítica (Matemáticas II)](moodle-stack/geometria-analitica-matematicas-ii.md)
 
 ## MOODLE STACK - PASO A PASO
 
