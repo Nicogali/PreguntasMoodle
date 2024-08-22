@@ -2,7 +2,7 @@
 description: Preguntas de probabilidad de la PAU Comunidad Valenciana
 ---
 
-# Probabilidad
+# Probabilidad (Matemáticas CCSS)
 
 ## Archivo XML
 
