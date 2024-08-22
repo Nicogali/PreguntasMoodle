@@ -2,7 +2,7 @@
 description: Preguntas de sistemas de ecuaciones de las PAU de la Comunidad Valenciana
 ---
 
-# Sistemas de ecuaciones
+# Sistemas de ecuaciones (Matemáticas CCSS)
 
 ## Archivo XML
 
