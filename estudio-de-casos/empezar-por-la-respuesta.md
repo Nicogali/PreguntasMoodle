@@ -39,4 +39,4 @@ Al establecer el criterio de calificación como:
 "**Si** caja de respuesta \_0 es igual a x1 **y** \_1 es igual a x2 **o si** \_1 es igual a x1 **y** \_0 es igual a x2, entonces la respuesta es correcta"
 {% endhint %}
 
-&#x20;__ Conseguimos que sea correcta la respuesta en un orden o en otro.
+&#x20;Conseguimos que sea correcta la respuesta en un orden o en otro.

@@ -2,7 +2,7 @@
 
 ## Para qué las variables
 
-Las variables son parámetros que podemos utilizar tanto para  **generar aleatoriedad** en nuestras preguntas como para **realizar cálculos intermedios**. ****&#x20;
+Las variables son parámetros que podemos utilizar tanto para  **generar aleatoriedad** en nuestras preguntas como para **realizar cálculos intermedios**.&#x20;
 
 Se definen al principio de la pregunta y son, probablemente, los elementos más importantes de toda la pregunta.
 

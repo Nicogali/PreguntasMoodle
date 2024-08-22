@@ -52,7 +52,7 @@ Preguntas en formato **xml de Moodle**.
 {% endhint %}
 
 {% hint style="danger" %}
-Es necesario tener instalado el tipo de [**pregunta STACK**](https://github.com/maths/moodle-qtype\_stack/blob/master/doc/en/About/index.md)****
+Es necesario tener instalado el tipo de [**pregunta STACK**](https://github.com/maths/moodle-qtype\_stack/blob/master/doc/en/About/index.md)
 {% endhint %}
 
 {% file src="../.gitbook/assets/preguntasPisa-20220818-2004.rar" %}

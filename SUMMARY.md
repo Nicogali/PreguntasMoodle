@@ -34,7 +34,7 @@
 
 * [Probabilidad](moodle-stack/probabilidad.md)
 * [Álgebra matricial](moodle-stack/algebra-matricial.md)
-* [Sistemas de ecuaciones](moodle-stack/sistemas-de-ecuaciones.md)
+* [Sistemas de ecuaciones (Matemáticas CCSS)](moodle-stack/sistemas-de-ecuaciones-matematicas-ccss.md)
 * [Programación lineal](moodle-stack/programacion-lineal.md)
 * [Análisis](moodle-stack/analisis.md)
 
